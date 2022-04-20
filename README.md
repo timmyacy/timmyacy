@@ -1,11 +1,11 @@
 ### Hi there 👋
 
 
-My name is TImmy and I am a computer science graduate. I was born in Lagos,Nigeria. In 2013, I moved to the UK to study at Buckswood School where i completed my A Levels and proceeded to study Computer Science at the University of Plymouth. My final year project was lane detection which is currently private on my account due to licensing issues at University.After my studies,I managed to secure a Tier 2 sponsored Job.
+My name is Timmy and I am a computer science graduate. I was born in Lagos,Nigeria. In 2013, I moved to the UK to study at Buckswood School where i completed my A Levels and proceeded to study Computer Science at the University of Plymouth. My final year project was lane detection system using a camera input. I did earn the best project for my work which is currently a private repository on my account(due to licensing issues from University projects).After my studies, I managed to secure a Tier 2 sponsored Job.
 
 I am currently:
 
-- 🔭  working as graduate software engineer focusing on large datasets,maintenance of frontend systems,file transfer and hybrid integration tools.
+- 🔭  working as graduate software engineer focusing on large datasets,maintenance of frontend systems,container orchestrations, file transfer and hybrid integration tools.
 - 🖥 coding in Typescript, Python and Java.
 - 📚 reading: Nothing atm,just strictly reading for a pending CFA exam.
 - 📺 watching: I just rewatching [Fringe](https://en.wikipedia.org/wiki/Fringe_(TV_series) and not watching anything at the moment. If you have a good tv-series recommendation please let me know!
@@ -29,3 +29,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
