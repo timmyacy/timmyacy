@@ -8,7 +8,8 @@ I am currently:
 - 🔭  working as graduate software engineer focusing on large datasets,maintenance of frontend systems,container orchestrations, file transfer and hybrid integration tools.
 - 🖥 coding in Typescript, Python and Java.
 - 📚 reading: Nothing atm,just strictly reading for a pending CFA exam.
-- 📺 watching: I just rewatching [Fringe](https://en.wikipedia.org/wiki/Fringe_(TV_series)) and not watching anything at the moment. If you have a good tv-series recommendation please let me know!
+- 📺 watching: I am currently just rewatching [Fringe](https://en.wikipedia.org/wiki/Fringe_(TV_series)) and not watching anything at the moment. If you have a good tv-- 
+- 🌱 learning: Time Series Analysis, Portfolio Optimisation, C++,Stochastic Processes,PDE,Numerical Methods and Financial Mathematics etc.
 
 **Please visit my [personal website](https://timmyajibode.dev/) ⭐ and connect with me via:**
 
@@ -29,4 +30,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
