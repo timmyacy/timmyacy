@@ -6,7 +6,7 @@ My name is Timmy and I am a computer science graduate working for a software com
 I am currently:
 
 
-- 📖 studying at the Mathematical Finance at the University of York.
+- 📖 studying Mathematical Finance at the University of York.
 - 🔭 worked as graduate software engineer focusing on large datasets,maintenance of frontend systems,container orchestrations, file transfer and hybrid integration tools.
 - 🖥 coding in Typescript, Python and Java.
 - 📚 reading: Concepts of Mathematical Finance by Mark Joshi.
