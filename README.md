@@ -5,7 +5,9 @@ My name is Timmy and I am a computer science graduate working for a software com
 
 I am currently:
 
-- 🔭  working as graduate software engineer focusing on large datasets,maintenance of frontend systems,container orchestrations, file transfer and hybrid integration tools.
+
+- 📖 studying at the Mathematical Finance at the University of York.
+- 🔭 worked as graduate software engineer focusing on large datasets,maintenance of frontend systems,container orchestrations, file transfer and hybrid integration tools.
 - 🖥 coding in Typescript, Python and Java.
 - 📚 reading: Concepts of Mathematical Finance by Mark Joshi.
 - 📺 watching: I am currently just rewatching [Fringe](https://en.wikipedia.org/wiki/Fringe_(TV_series)) and not watching anything at the moment. If you have a good tv series let me know. 
