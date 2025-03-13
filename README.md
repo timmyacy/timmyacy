@@ -1,10 +1,9 @@
 ### Hi there 👋
 
 
-My name is Timmy and I am a computer science graduate working for a software company specialising in business solutions. I was born in Lagos,Nigeria. In 2013, I moved to the UK to study at Buckswood School where i completed my A Levels and proceeded to study Computer Science at the University of Plymouth. My final year project based on lane line detection systems using a camera input. I did earn the best project for my work which is currently a private repository on my account(due to licensing issues from University projects).After my studies, I managed to secure a Tier 2 sponsored Job which i am currently still in.
+My name is Timmy and I am currently studying towards a Masters Degree in Mathematical finance. I previously worked for a software company specialising in business solutions. I also have experience working for Royal Cornwall Hospitals NHS Trust as a Honorary Research Assistant. I was born in Lagos,Nigeria. In 2013, I moved to the UK to study at Buckswood School where i completed my A Levels and proceeded to study Computer Science at the University of Plymouth. My final year project based on lane line detection systems using a camera input. I did earn the best project for my work which is currently a private repository on my account(due to licensing issues from University projects).
 
 I am currently:
-
 
 - 📖 studying Mathematical Finance at the University of York.
 - 🔭 worked as graduate software engineer focusing on large datasets,maintenance of frontend systems,container orchestrations, file transfer and hybrid integration tools.
